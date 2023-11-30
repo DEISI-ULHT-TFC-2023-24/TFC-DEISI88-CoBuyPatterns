@@ -2,9 +2,9 @@ dict = {}
 study_groups = {'Music', 'Book', 'DVD'}
 
 def read_archive():
-    #archives = "teste.txt"
+    archives = "teste.txt"
 
-    archives = "amazon-meta.txt"
+    #archives = "amazon-meta.txt"
 
     file = open(archives, "r", encoding="UTF-8")
     lines = file.readlines()
@@ -50,12 +50,11 @@ def read_archive():
         if test.startswith("|") and (current_group in study_groups):
             # Extracting the category and its number
             ###print(current_group)
-            category_info = test.split("|")[-1].split("[")
-            category = category_info[0].strip()
-            category_number = category_info[1].split("]")[0].strip()
+            category_info = [category.strip() for category in test.split("|")[1:-1]]
 
-            if category not in categories_dict:
-                categories_dict[category] = category_number
+            for category in category_info:
+                if category not in categories_dict:
+                    categories_dict[category] = ''
 
     file.close()
     print(dict)
