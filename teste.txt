@@ -1,0 +1,156 @@
+Id:   67377
+ASIN: 1930448015
+  title: The Doctor's Pocket Calorie, Fat & Carbohydrate Counter : Plus 80 Fast-Food Chains and Restaurants (2001 Edition)
+  group: Book
+  salesrank: 442760
+  similar: 5  1930448074  0440225647  0761100350  0743454316  0380764253
+  categories: 3
+   |Books[283155]|Subjects[1000]|Travel[27]|General[17025]|Food & Lodging[17031]|Dining[17035]
+   |Books[283155]|Subjects[1000]|Health, Mind & Body[10]|Personal Health[282800]|Healthy Living[465686]
+   |[265523]|Amazon.com Stores[285080]|Travel[605012]|Categories[3074321]|Travel Books[639538]|General[640084]|Food & Lodging[640090]|Dining[640094]
+  reviews: total: 35  downloaded: 35  avg rating: 4.5
+    1999-3-30  cutomer:  ATVPDKIKX0DER  rating: 5  votes:  37  helpful:  36
+    1999-11-17  cutomer:  AZ818VDASMLPN  rating: 5  votes:  39  helpful:  36
+    2000-4-7  cutomer: A3OKY8LLUASVR6  rating: 5  votes:  14  helpful:  14
+    2000-4-24  cutomer: A1KDPFMAFI6B6G  rating: 5  votes:  10  helpful:   9
+    2000-4-26  cutomer: A2G2QBDY29HXF1  rating: 5  votes:  25  helpful:  24
+    2000-5-8  cutomer: A2U80TPSAOB92E  rating: 5  votes:  18  helpful:  16
+    2000-6-25  cutomer:   A89NVBVCXJVI  rating: 5  votes:  37  helpful:  37
+    2000-6-28  cutomer: A1PFV8GQADEIPZ  rating: 5  votes:  33  helpful:  27
+    2000-10-10  cutomer: A37WX89EQJQTHK  rating: 5  votes:  86  helpful:  83
+    2000-10-23  cutomer: A379CTC3EAU9IQ  rating: 5  votes:  24  helpful:  24
+    2000-12-16  cutomer: A3MR34I4KM4ZJA  rating: 5  votes:  23  helpful:  18
+    2001-2-1  cutomer: A276TJQ6I14WR6  rating: 5  votes:  10  helpful:   9
+    2001-5-13  cutomer: A1CMD2IN4UEV0T  rating: 2  votes: 105  helpful:  86
+    2001-5-21  cutomer: A3KP033HM50EBV  rating: 5  votes:  19  helpful:  19
+    2001-5-25  cutomer: A39DQRFNNXLZ57  rating: 5  votes:   5  helpful:   5
+    2001-7-4  cutomer: A2B60IZMD29775  rating: 5  votes:   2  helpful:   1
+    2001-7-10  cutomer: A2QT7GAJ392A0Q  rating: 5  votes:  30  helpful:  27
+    2001-9-24  cutomer:  A7I4USWH82A8L  rating: 5  votes:   8  helpful:   8
+    2001-10-22  cutomer: A1RRKX4U4419UJ  rating: 2  votes:  31  helpful:  28
+    2001-11-17  cutomer:  AZVUJYVKGB6JF  rating: 5  votes:   2  helpful:   2
+    2001-12-4  cutomer: A39DQRFNNXLZ57  rating: 5  votes:  11  helpful:  10
+    2002-1-31  cutomer: A3O1JA4KU0KDNR  rating: 4  votes:  21  helpful:  19
+    2002-2-11  cutomer: A2VDQIOXO5XN6V  rating: 5  votes:  43  helpful:  39
+    2002-3-15  cutomer: A1KA5EJVNM6YXV  rating: 5  votes:  36  helpful:  35
+    2002-6-4  cutomer:  AWJK5K460JR3X  rating: 5  votes:  11  helpful:  11
+    2002-8-10  cutomer: A2JBDC1OR1KZGP  rating: 5  votes:  21  helpful:  20
+    2002-8-17  cutomer: A1YCATY6UGIX3C  rating: 2  votes:   8  helpful:   4
+    2002-10-26  cutomer: A2AOX1H2RRIGJY  rating: 5  votes:   2  helpful:   2
+    2002-11-10  cutomer: A2YS96XZWFOK9Q  rating: 5  votes:  32  helpful:  31
+    2002-11-16  cutomer: A1XSF4A8N1WMWD  rating: 5  votes:   6  helpful:   6
+    2002-12-1  cutomer: A18VT083FG5FLJ  rating: 5  votes:  15  helpful:  15
+    2002-12-4  cutomer:  A3FVAWZNKW9GX  rating: 5  votes:  31  helpful:  31
+    2003-4-11  cutomer: A3E33O7XU2MYL2  rating: 3  votes:  18  helpful:   0
+    2003-4-16  cutomer: A1QRWFFIX4WLO5  rating: 5  votes:   8  helpful:   8
+    2003-8-20  cutomer: A3H3CDDUA1Q87J  rating: 3  votes:   3  helpful:   2
+
+Id:   67378
+ASIN: B00005RES6
+  title: Topper Returns
+  group: Video
+  salesrank: 31704
+  similar: 5  B00008ZZ7B  6301231783  B0000C8AU6  B00009IAZK  B00006FDCS
+  categories: 15
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( B )[140748]|Blondell, Joan[141811]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( B )[140748]|Burke, Billie[142638]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( K )[150127]|Kelly, Patsy[150433]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( L )[150992]|Landis, Carole[151130]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( L )[150992]|Lloyd, George[151858]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( M )[152234]|Maberly to Mazzello[769018]|Macbride, Donald[152252]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( O )[154799]|O'Keefe, Dennis[154935]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( Y )[161865]|Young, Roland[161985]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( Z )[162026]|Zucco, George[162150]
+   |[139452]|VHS[404272]|Genres[404274]|Comedy[128]|Farce[163024]
+   |[139452]|VHS[404272]|Genres[404274]|Comedy[128]|General[163249]
+   |[139452]|VHS[404272]|Genres[404274]|Drama[129]|General[168754]
+   |[139452]|VHS[404272]|Special Features[498864]|Today's Deals in Video[292355]|Comedy[531264]
+   |[139452]|VHS[404272]|Genres[404274]|Comedy[128]|Classic Comedies[523920]|General[565330]
+   |[265523]|Amazon.com Stores[285080]|Amazon.com Outlet[517808]|Categories[526028]|Video Outlet[735448]|Comedy[735452]
+  reviews: total: 19  downloaded: 19  avg rating: 4.5
+    2000-3-1  cutomer: A3SE52ZYVL15ZL  rating: 1  votes:  20  helpful:   1
+    2000-3-3  cutomer:  ADBAQHMI9CVZ9  rating: 5  votes:   6  helpful:   6
+    2000-7-5  cutomer:  ACO20QL72D1E6  rating: 5  votes:   6  helpful:   6
+    2000-12-15  cutomer: A3RKY90GA0Y3PZ  rating: 5  votes:   5  helpful:   5
+    2001-3-15  cutomer: A22JPTU93FIJX9  rating: 5  votes:   0  helpful:   0
+    2001-3-15  cutomer: A22JPTU93FIJX9  rating: 5  votes:   3  helpful:   2
+    2001-5-14  cutomer: A1JZUD6MQVU4HL  rating: 5  votes:   5  helpful:   4
+    2001-7-10  cutomer: A3SE52ZYVL15ZL  rating: 1  votes:   7  helpful:   1
+    2001-7-14  cutomer:  A48A0CDCV4SQ5  rating: 5  votes:   7  helpful:   7
+    2001-7-14  cutomer:  A48A0CDCV4SQ5  rating: 5  votes:   7  helpful:   7
+    2001-11-7  cutomer: A1X44LCV427TRE  rating: 4  votes:   4  helpful:   4
+    2001-12-10  cutomer:  ACIBQ6BQ6AWEV  rating: 5  votes:  12  helpful:  11
+    2002-1-17  cutomer: A20EEWWSFMZ1PN  rating: 5  votes:   8  helpful:   6
+    2003-2-5  cutomer: A1REFKHB9HHB2K  rating: 5  votes:   5  helpful:   5
+    2003-2-26  cutomer: A1TPJMIG83W12L  rating: 4  votes:   4  helpful:   2
+    2003-7-31  cutomer:  AWZO0HE65H4ZB  rating: 5  votes:   4  helpful:   3
+    2004-1-28  cutomer:  A8GXQHBXNYDNM  rating: 5  votes:   5  helpful:   5
+    2005-1-6  cutomer: A1GQQFTPA23Z1O  rating: 5  votes:   4  helpful:   4
+    2005-1-12  cutomer: A30TK6U7DNS82R  rating: 5  votes:   2  helpful:   2
+
+
+
+
+Id:   1223
+ASIN: B00005RES6
+  title: Topper Returns
+  group: Video
+  salesrank: 31704
+  similar: 5  B00008ZZ7B  6301231783  B0000C8AU6  B00009IAZK  B00006FDCS
+  categories: 15
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( B )[140748]|Blondell, Joan[141811]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( B )[140748]|Burke, Billie[142638]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( K )[150127]|Kelly, Patsy[150433]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( L )[150992]|Landis, Carole[151130]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( L )[150992]|Lloyd, George[151858]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( M )[152234]|Maberly to Mazzello[769018]|Macbride, Donald[152252]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( O )[154799]|O'Keefe, Dennis[154935]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( Y )[161865]|Young, Roland[161985]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( Z )[162026]|Zucco, George[162150]
+   |[139452]|VHS[404272]|Genres[404274]|Comedy[128]|Farce[163024]
+   |[139452]|VHS[404272]|Genres[404274]|Comedy[128]|General[163249]
+   |[139452]|VHS[404272]|Genres[404274]|Drama[129]|General[168754]
+   |[139452]|VHS[404272]|Special Features[498864]|Today's Deals in Video[292355]|Comedy[531264]
+   |[139452]|VHS[404272]|Genres[404274]|Comedy[128]|Classic Comedies[523920]|General[565330]
+   |[265523]|Amazon.com Stores[285080]|Amazon.com Outlet[517808]|Categories[526028]|Video Outlet[735448]|Comedy[735452]
+  reviews: total: 19  downloaded: 19  avg rating: 4.5
+    2000-3-1  cutomer: A3SE52ZYVL15ZL  rating: 1  votes:  20  helpful:   1
+    2000-3-3  cutomer:  ADBAQHMI9CVZ9  rating: 5  votes:   6  helpful:   6
+    2000-7-5  cutomer:  ACO20QL72D1E6  rating: 5  votes:   6  helpful:   6
+    2000-12-15  cutomer: A3RKY90GA0Y3PZ  rating: 5  votes:   5  helpful:   5
+    2001-3-15  cutomer: A22JPTU93FIJX9  rating: 5  votes:   0  helpful:   0
+    2001-3-15  cutomer: A22JPTU93FIJX9  rating: 5  votes:   3  helpful:   2
+    2001-5-14  cutomer: A1JZUD6MQVU4HL  rating: 5  votes:   5  helpful:   4
+    2001-7-10  cutomer: A3SE52ZYVL15ZL  rating: 1  votes:   7  helpful:   1
+    2001-7-14  cutomer:  A48A0CDCV4SQ5  rating: 5  votes:   7  helpful:   7
+    2001-7-14  cutomer:  A48A0CDCV4SQ5  rating: 5  votes:   7  helpful:   7
+    2001-11-7  cutomer: A1X44LCV427TRE  rating: 4  votes:   4  helpful:   4
+    2001-12-10  cutomer:  ACIBQ6BQ6AWEV  rating: 5  votes:  12  helpful:  11
+    2002-1-17  cutomer: A20EEWWSFMZ1PN  rating: 5  votes:   8  helpful:   6
+    2003-2-5  cutomer: A1REFKHB9HHB2K  rating: 5  votes:   5  helpful:   5
+    2003-2-26  cutomer: A1TPJMIG83W12L  rating: 4  votes:   4  helpful:   2
+    2003-7-31  cutomer:  AWZO0HE65H4ZB  rating: 5  votes:   4  helpful:   3
+    2004-1-28  cutomer:  A8GXQHBXNYDNM  rating: 5  votes:   5  helpful:   5
+    2005-1-6  cutomer: A1GQQFTPA23Z1O  rating: 5  votes:   4  helpful:   4Id:   274317
+
+ASIN: 6305973245
+  title: Tapeheads
+  group: Video
+  salesrank: 41621
+  similar: 5  B00008L3UU  B00005U5AG  B00009OWJY  B00008DDXK  B00005JKFA
+  categories: 23
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( A )[139920]|Alzado, Lyle[140258]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( A )[139920]|Arenberg, Lee[140512]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( B )[140748]|Boyer, Katy[142092]
+   |[139452]|VHS[404272]|Actors & Actresses[140]|( C )[142797]|Cornelius, Don[144130]
+    2005-1-12  cutomer: A30TK6U7DNS82R  rating: 5  votes:   2  helpful:   2
+
+ASIN: 6305973245
+  title: Tapeheads
+  group: Book
+  salesrank: 41621
+  similar: 5  B00008L3UU  B00005U5AG  B00009OWJY  B00008DDXK  B00005JKFA
+  categories: 23
+   |Oiu[139452]|VHS1[404272]|Actors & Actresses2[140]|( A3 )[139920]|Alzado, Lyle4[140258]
+
+    2005-1-12  cutomer: A30TK6U7DNS82R  rating: 5  votes:   2  helpful:   2
