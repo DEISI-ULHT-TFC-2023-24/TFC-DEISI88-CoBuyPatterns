@@ -46,7 +46,6 @@ def read_archive():
 
         if study_line.startswith("|") and (current_group in study_groups):
             # Extracting the category and its number
-            ###print(current_group)
             category_info = [line.strip() for line in study_line.split("\n") if line.startswith("|")]
             #category_info = [category.strip() for category in study_line.split("|")[1:-1]]
 
