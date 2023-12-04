@@ -1,3 +1,5 @@
+import csv
+
 dict = {}
 study_groups = {'Music', 'Book', 'DVD'}
 
@@ -22,15 +24,17 @@ def read_archive():
         study_line = line.strip()
         #searching for every type of object that exists in the dataset
         if study_line.startswith("group: "):
+            current_group = study_line.split(":")[1].strip()
             #group exist in dictionary
             if study_line.split(":")[1].strip() in dict:
                 dict[study_line.split(":")[1].strip()] += 1
-                current_group = study_line.split(":")[1].strip()
-
             else:
                 #group doesn't exist in dictionary
                 dict[study_line.split(":")[1].strip()] = 1
-                current_group = study_line.split(":")[1].strip()
+
+        if study_line.startswith("ASIN: "):
+            current_asin = study_line.split(":")[1]
+            current_similarities = []
 
         if study_line.startswith("similar: 0") and (current_group in study_groups):
             no_similarities += 1
@@ -38,24 +42,19 @@ def read_archive():
         elif study_line.startswith("similar: ") and (current_group in study_groups):
             similarities = [sim[0:] for sim in study_line.split()[2:]]
             current_similarities.extend(similarities)
-
-        # Check if the line is empty, indicating the end
-        elif not study_line:
-            # Add ASIN and its similarities to the list
             list_similarities.extend([(current_asin, sim) for sim in current_similarities])
-
-        if study_line.startswith("ASIN: ") and (current_group in study_groups):
-            current_asin = study_line.split(":")[1]
-            current_similarities = []
 
         if study_line.startswith("|") and (current_group in study_groups):
             # Extracting the category and its number
             ###print(current_group)
-            category_info = [category.strip() for category in study_line.split("|")[1:-1]]
+            category_info = [line.strip() for line in study_line.split("\n") if line.startswith("|")]
+            #category_info = [category.strip() for category in study_line.split("|")[1:-1]]
 
             for category in category_info:
                 if category not in categories_dict:
-                    categories_dict[category] = ''
+                    categories_dict[category] = 1
+                else:
+                    categories_dict[category] += 1
             # ao ver uma categoria posso meter o numero à frente, ou seja A cat enters = 1, in another group i see her again, 2 and so on
 
         if study_line.strip() and study_line[0].isdigit() and (current_group in study_groups):
@@ -71,11 +70,16 @@ def read_archive():
     print("How many products with no co-purchases?", no_similarities)
     print("How many users are making reviews?", len(customer_ids))
 
-    with open("similarities.txt", "w", encoding="UTF-8") as output_file:
-        for asin, similar_object in list_similarities:
-            output_file.write(f"{asin} - {similar_object}\n")
+    # with open("similarities.txt", "w", encoding="UTF-8") as output_file:
+    # for asin, similar_object in list_similarities:
+    # output_file.write(f"{asin} - {similar_object}\n")
 
-    # Write the categories to a file
+    # Escrever no arquivo CSV
+    with open("similarities.csv", "w", encoding="UTF-8") as csv_file:
+        csv_writer = csv.writer(csv_file, delimiter=':')
+        for asin, similar_object in list_similarities:
+            csv_writer.writerow([asin, similar_object])
+
     with open("categories_output.txt", "w", encoding="UTF-8") as output_file:
         for category, id_category in categories_dict.items():
             output_file.write(f"{category}: {id_category}\n")
