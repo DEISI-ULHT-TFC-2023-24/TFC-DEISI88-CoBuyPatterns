@@ -4,9 +4,6 @@ from collections import Counter
 dict = {}
 study_groups = {'Music', 'Book', 'DVD'}
 
-#para cada objeto quero: id, grupo, categorias, {'user_x' : comment}
-
-
 def read_archive():
     #archives = "teste.txt"
     archives = "amazon-meta.txt"
@@ -23,13 +20,11 @@ def read_archive():
     result = {}
     customer_ids = []
     estrutura_final = []
+    count = 0
 
     for line in lines:
         study_line = line.strip()
         #searching for every type of object that exists in the dataset
-        if study_line.startswith("group: "):
-            current_group = study_line.split(":")[1].strip()
-
         if study_line.startswith("ASIN: "):
             current_asin = study_line.split(":")[1]
             current_similarities = []
@@ -39,32 +34,31 @@ def read_archive():
             # Append the title to the array
             current_title.append(title)
 
-        elif study_line.startswith("similar: ") and (current_group in study_groups):
+        if study_line.startswith("group: "):
+            current_group = study_line.split(":")[1].strip()
+
+        if study_line.startswith("similar: ") and (current_group in study_groups):
+            #right num
             similarities = [sim[0:] for sim in study_line.split()[2:]]
             current_similarities.extend(similarities)
             list_similarities.extend([(current_asin, sim) for sim in current_similarities])
 
         if study_line.strip().startswith("|") and (current_group in study_groups):
             split_items = study_line.strip().split("|")[1:]
-
             # Step 2: Exclude the first two elements from the split result, and split each remaining item by "["
             split_items = split_items[2:]
-            parts = [item.split("[")[0] for item in split_items]
-            estrutura_final.append(parts)
+            parts1 = [item.split("[")[0] for item in split_items]
+            estrutura_final.append(parts1)
 
-
-        #filtered_categories = {category: frequency for category, frequency in result.items() if frequency > 2}
-
-        # file -> ASIN - GROUP(CURRENT GROUP) - SIMIL - CATEGORY - COMENTARIOS
-        # ao ver uma categoria posso meter o numero à frente, ou seja A cat enters = 1, in another group i see her again, 2 and so on
-
+        #reviews
         if study_line.strip() and study_line[0].isdigit() and (current_group in study_groups):
             parts = line.split()
             user_id = parts[2]
             rating = parts[4]
             customer_ids.append(f"{user_id} - {rating}")
 
-        if not study_line and (current_group in study_groups):
+        if study_line.strip() == '' and (current_group in study_groups):
+            count += 1
             palavras = [palavra for sublista in estrutura_final for palavra in sublista]
             contagem_palavras = Counter(palavras)
             palavras_mais_frequentes = [palavra for palavra, frequencia in contagem_palavras.most_common()]
@@ -78,20 +72,18 @@ def read_archive():
 
             customer_ids = []
             current_title = []
-            result = []
             palavras = []
             estrutura_final = []
+            current_group = None
 
     file.close()
-    # with open("similarities.txt", "w", encoding="UTF-8") as output_file:
-    # for asin, similar_object in list_similarities:
-    # output_file.write(f"{asin} - {similar_object}\n")
+    print(count)
     with open('output.txt', mode='r') as file:
-        # Create a CSV reader object
-        csv_reader = csv.reader(file)
+        csv.reader(file)
 
 
 read_archive()
+
 
 
 # How many products are in the dataset? - DONE
