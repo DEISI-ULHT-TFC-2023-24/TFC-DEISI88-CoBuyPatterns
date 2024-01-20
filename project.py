@@ -115,3 +115,28 @@ full_dataSet_datagram = pd.DataFrame(dfs)
 catsDatagram = pd.DataFrame(dfs_cats)
 similarsDatagram = pd.DataFrame(dfs_similars)
 
+full_dataSet_datagram
+catsDatagram
+
+dvd = full_dataSet_datagram[full_dataSet_datagram.group == 'DVD']
+dvd
+
+book = full_dataSet_datagram[full_dataSet_datagram.group == 'Book']
+book
+
+music = full_dataSet_datagram[full_dataSet_datagram.group == 'Music']
+music
+
+df_exploded = similarsDatagram.explode('similarities')
+df_exploded
+
+
+#obter as 10 categorias mais frequentes
+y = full_dataSet_datagram[full_dataSet_datagram.tipo == 'DVD'].copy()
+study_categories = y[['categories','id']].groupby('categories').count().sort_values(by='id', ascending =False).head(5).index.to_list()
+study_categories
+
+#criar um datagram com toda a informaçao, mas somente das 10 categorias mais frequentes de um dado tipo de produto
+z = y[y.categories.isin(study_categories)]
+z.explode('similarities')[['id','similarities']].to_csv('test2.csv', index=False)
+z
