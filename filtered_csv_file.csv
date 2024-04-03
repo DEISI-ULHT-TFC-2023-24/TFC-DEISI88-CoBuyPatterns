@@ -1,0 +1,692 @@
+Source,Target,Weight
+Arts & Photography,Biographies & Memoirs,473
+Arts & Photography,Business & Investing,276
+Arts & Photography,Children's Books,650
+Arts & Photography,Comics & Graphic Novels,114
+Arts & Photography,Computers & Internet,198
+Arts & Photography,"Cooking, Food & Wine",34
+Arts & Photography,Engineering,23
+Arts & Photography,Entertainment,522
+Arts & Photography,Gay & Lesbian,17
+Arts & Photography,"Health, Mind & Body",313
+Arts & Photography,History,527
+Arts & Photography,Home & Garden,1162
+Arts & Photography,Horror,2
+Arts & Photography,Law,8
+Arts & Photography,Literature & Fiction,891
+Arts & Photography,Medicine,6
+Arts & Photography,Mystery & Thrillers,7
+Arts & Photography,Nonfiction,795
+Arts & Photography,Outdoors & Nature,66
+Arts & Photography,Professional & Technical,543
+Arts & Photography,Religion & Spirituality,294
+Arts & Photography,Romance,1
+Arts & Photography,Science,219
+Arts & Photography,Science Fiction & Fantasy,60
+Arts & Photography,Sports,54
+Arts & Photography,Teens,5
+Arts & Photography,Travel,397
+Biographies & Memoirs,Arts & Photography,548
+Biographies & Memoirs,Business & Investing,392
+Biographies & Memoirs,Children's Books,711
+Biographies & Memoirs,Comics & Graphic Novels,41
+Biographies & Memoirs,Computers & Internet,15
+Biographies & Memoirs,"Cooking, Food & Wine",94
+Biographies & Memoirs,Engineering,2
+Biographies & Memoirs,Entertainment,1102
+Biographies & Memoirs,Gay & Lesbian,74
+Biographies & Memoirs,"Health, Mind & Body",994
+Biographies & Memoirs,History,2558
+Biographies & Memoirs,Home & Garden,134
+Biographies & Memoirs,Horror,20
+Biographies & Memoirs,Law,74
+Biographies & Memoirs,Literature & Fiction,3226
+Biographies & Memoirs,Medicine,146
+Biographies & Memoirs,Mystery & Thrillers,165
+Biographies & Memoirs,Nonfiction,2176
+Biographies & Memoirs,Outdoors & Nature,84
+Biographies & Memoirs,Professional & Technical,105
+Biographies & Memoirs,Religion & Spirituality,2066
+Biographies & Memoirs,Romance,16
+Biographies & Memoirs,Science,430
+Biographies & Memoirs,Science Fiction & Fantasy,41
+Biographies & Memoirs,Sports,316
+Biographies & Memoirs,Teens,45
+Biographies & Memoirs,Travel,470
+Business & Investing,Arts & Photography,228
+Business & Investing,Biographies & Memoirs,284
+Business & Investing,Children's Books,73
+Business & Investing,Comics & Graphic Novels,4
+Business & Investing,Computers & Internet,400
+Business & Investing,"Cooking, Food & Wine",114
+Business & Investing,Engineering,294
+Business & Investing,Entertainment,185
+Business & Investing,Gay & Lesbian,6
+Business & Investing,"Health, Mind & Body",1813
+Business & Investing,History,505
+Business & Investing,Home & Garden,275
+Business & Investing,Law,339
+Business & Investing,Literature & Fiction,170
+Business & Investing,Medicine,177
+Business & Investing,Mystery & Thrillers,17
+Business & Investing,Nonfiction,2611
+Business & Investing,Outdoors & Nature,65
+Business & Investing,Professional & Technical,253
+Business & Investing,Religion & Spirituality,499
+Business & Investing,Science,486
+Business & Investing,Science Fiction & Fantasy,4
+Business & Investing,Sports,116
+Business & Investing,Teens,4
+Business & Investing,Travel,116
+Children's Books,Arts & Photography,543
+Children's Books,Biographies & Memoirs,584
+Children's Books,Business & Investing,79
+Children's Books,Comics & Graphic Novels,291
+Children's Books,Computers & Internet,15
+Children's Books,"Cooking, Food & Wine",109
+Children's Books,Engineering,12
+Children's Books,Entertainment,493
+Children's Books,Gay & Lesbian,12
+Children's Books,"Health, Mind & Body",450
+Children's Books,History,347
+Children's Books,Home & Garden,564
+Children's Books,Horror,98
+Children's Books,Law,6
+Children's Books,Literature & Fiction,1391
+Children's Books,Medicine,13
+Children's Books,Mystery & Thrillers,88
+Children's Books,Nonfiction,1335
+Children's Books,Outdoors & Nature,45
+Children's Books,Professional & Technical,62
+Children's Books,Religion & Spirituality,842
+Children's Books,Romance,20
+Children's Books,Science,423
+Children's Books,Science Fiction & Fantasy,488
+Children's Books,Sports,165
+Children's Books,Teens,1694
+Children's Books,Travel,95
+Comics & Graphic Novels,Arts & Photography,115
+Comics & Graphic Novels,Biographies & Memoirs,49
+Comics & Graphic Novels,Business & Investing,1
+Comics & Graphic Novels,Children's Books,268
+Comics & Graphic Novels,Computers & Internet,2
+Comics & Graphic Novels,"Cooking, Food & Wine",3
+Comics & Graphic Novels,Entertainment,234
+Comics & Graphic Novels,Gay & Lesbian,3
+Comics & Graphic Novels,"Health, Mind & Body",12
+Comics & Graphic Novels,History,9
+Comics & Graphic Novels,Home & Garden,11
+Comics & Graphic Novels,Horror,17
+Comics & Graphic Novels,Literature & Fiction,92
+Comics & Graphic Novels,Medicine,1
+Comics & Graphic Novels,Mystery & Thrillers,13
+Comics & Graphic Novels,Nonfiction,40
+Comics & Graphic Novels,Professional & Technical,2
+Comics & Graphic Novels,Religion & Spirituality,23
+Comics & Graphic Novels,Romance,5
+Comics & Graphic Novels,Science,1
+Comics & Graphic Novels,Science Fiction & Fantasy,217
+Comics & Graphic Novels,Sports,9
+Comics & Graphic Novels,Teens,15
+Comics & Graphic Novels,Travel,13
+Computers & Internet,Arts & Photography,265
+Computers & Internet,Biographies & Memoirs,12
+Computers & Internet,Business & Investing,602
+Computers & Internet,Children's Books,36
+Computers & Internet,Comics & Graphic Novels,8
+Computers & Internet,"Cooking, Food & Wine",12
+Computers & Internet,Engineering,710
+Computers & Internet,Entertainment,228
+Computers & Internet,"Health, Mind & Body",98
+Computers & Internet,History,24
+Computers & Internet,Home & Garden,25
+Computers & Internet,Horror,1
+Computers & Internet,Law,37
+Computers & Internet,Literature & Fiction,28
+Computers & Internet,Medicine,38
+Computers & Internet,Mystery & Thrillers,2
+Computers & Internet,Nonfiction,361
+Computers & Internet,Outdoors & Nature,1
+Computers & Internet,Professional & Technical,88
+Computers & Internet,Religion & Spirituality,23
+Computers & Internet,Science,509
+Computers & Internet,Science Fiction & Fantasy,10
+Computers & Internet,Sports,2
+Computers & Internet,Teens,1
+Computers & Internet,Travel,2
+"Cooking, Food & Wine",Arts & Photography,35
+"Cooking, Food & Wine",Biographies & Memoirs,76
+"Cooking, Food & Wine",Business & Investing,138
+"Cooking, Food & Wine",Children's Books,126
+"Cooking, Food & Wine",Comics & Graphic Novels,4
+"Cooking, Food & Wine",Computers & Internet,7
+"Cooking, Food & Wine",Engineering,7
+"Cooking, Food & Wine",Entertainment,58
+"Cooking, Food & Wine","Health, Mind & Body",921
+"Cooking, Food & Wine",History,81
+"Cooking, Food & Wine",Home & Garden,337
+"Cooking, Food & Wine",Literature & Fiction,67
+"Cooking, Food & Wine",Medicine,25
+"Cooking, Food & Wine",Mystery & Thrillers,19
+"Cooking, Food & Wine",Nonfiction,96
+"Cooking, Food & Wine",Outdoors & Nature,39
+"Cooking, Food & Wine",Professional & Technical,22
+"Cooking, Food & Wine",Religion & Spirituality,80
+"Cooking, Food & Wine",Romance,1
+"Cooking, Food & Wine",Science,82
+"Cooking, Food & Wine",Science Fiction & Fantasy,3
+"Cooking, Food & Wine",Sports,34
+"Cooking, Food & Wine",Teens,1
+"Cooking, Food & Wine",Travel,184
+Engineering,Arts & Photography,21
+Engineering,Biographies & Memoirs,1
+Engineering,Business & Investing,318
+Engineering,Children's Books,20
+Engineering,Computers & Internet,645
+Engineering,"Cooking, Food & Wine",4
+Engineering,Entertainment,59
+Engineering,"Health, Mind & Body",17
+Engineering,History,26
+Engineering,Home & Garden,286
+Engineering,Law,11
+Engineering,Literature & Fiction,7
+Engineering,Medicine,28
+Engineering,Nonfiction,166
+Engineering,Outdoors & Nature,20
+Engineering,Professional & Technical,148
+Engineering,Religion & Spirituality,2
+Engineering,Science,1014
+Engineering,Sports,36
+Engineering,Travel,4
+Entertainment,Arts & Photography,503
+Entertainment,Biographies & Memoirs,1083
+Entertainment,Business & Investing,179
+Entertainment,Children's Books,570
+Entertainment,Comics & Graphic Novels,232
+Entertainment,Computers & Internet,183
+Entertainment,"Cooking, Food & Wine",64
+Entertainment,Engineering,47
+Entertainment,Gay & Lesbian,17
+Entertainment,"Health, Mind & Body",434
+Entertainment,History,159
+Entertainment,Home & Garden,165
+Entertainment,Horror,38
+Entertainment,Law,27
+Entertainment,Literature & Fiction,687
+Entertainment,Medicine,16
+Entertainment,Mystery & Thrillers,55
+Entertainment,Nonfiction,651
+Entertainment,Outdoors & Nature,18
+Entertainment,Professional & Technical,71
+Entertainment,Religion & Spirituality,404
+Entertainment,Science,103
+Entertainment,Science Fiction & Fantasy,298
+Entertainment,Sports,149
+Entertainment,Teens,9
+Entertainment,Travel,72
+Gay & Lesbian,Arts & Photography,22
+Gay & Lesbian,Biographies & Memoirs,73
+Gay & Lesbian,Business & Investing,5
+Gay & Lesbian,Children's Books,8
+Gay & Lesbian,Comics & Graphic Novels,5
+Gay & Lesbian,"Cooking, Food & Wine",3
+Gay & Lesbian,Entertainment,19
+Gay & Lesbian,"Health, Mind & Body",87
+Gay & Lesbian,History,23
+Gay & Lesbian,Horror,2
+Gay & Lesbian,Law,1
+Gay & Lesbian,Literature & Fiction,272
+Gay & Lesbian,Medicine,3
+Gay & Lesbian,Mystery & Thrillers,34
+Gay & Lesbian,Nonfiction,229
+Gay & Lesbian,Professional & Technical,2
+Gay & Lesbian,Religion & Spirituality,55
+Gay & Lesbian,Science,4
+Gay & Lesbian,Science Fiction & Fantasy,19
+Gay & Lesbian,Sports,6
+Gay & Lesbian,Teens,10
+Gay & Lesbian,Travel,6
+"Health, Mind & Body",Arts & Photography,261
+"Health, Mind & Body",Biographies & Memoirs,710
+"Health, Mind & Body",Business & Investing,1964
+"Health, Mind & Body",Children's Books,518
+"Health, Mind & Body",Comics & Graphic Novels,8
+"Health, Mind & Body",Computers & Internet,70
+"Health, Mind & Body","Cooking, Food & Wine",901
+"Health, Mind & Body",Engineering,8
+"Health, Mind & Body",Entertainment,416
+"Health, Mind & Body",Gay & Lesbian,53
+"Health, Mind & Body",History,163
+"Health, Mind & Body",Home & Garden,359
+"Health, Mind & Body",Horror,2
+"Health, Mind & Body",Law,76
+"Health, Mind & Body",Literature & Fiction,522
+"Health, Mind & Body",Medicine,1520
+"Health, Mind & Body",Mystery & Thrillers,27
+"Health, Mind & Body",Nonfiction,2937
+"Health, Mind & Body",Outdoors & Nature,43
+"Health, Mind & Body",Professional & Technical,386
+"Health, Mind & Body",Religion & Spirituality,3895
+"Health, Mind & Body",Romance,9
+"Health, Mind & Body",Science,549
+"Health, Mind & Body",Science Fiction & Fantasy,7
+"Health, Mind & Body",Sports,577
+"Health, Mind & Body",Teens,51
+"Health, Mind & Body",Travel,50
+History,Arts & Photography,421
+History,Biographies & Memoirs,2362
+History,Business & Investing,399
+History,Children's Books,407
+History,Comics & Graphic Novels,13
+History,Computers & Internet,13
+History,"Cooking, Food & Wine",84
+History,Engineering,13
+History,Entertainment,111
+History,Gay & Lesbian,17
+History,"Health, Mind & Body",186
+History,Home & Garden,223
+History,Horror,6
+History,Law,115
+History,Literature & Fiction,1560
+History,Medicine,40
+History,Mystery & Thrillers,76
+History,Nonfiction,3665
+History,Outdoors & Nature,85
+History,Professional & Technical,168
+History,Religion & Spirituality,1082
+History,Romance,2
+History,Science,370
+History,Science Fiction & Fantasy,22
+History,Sports,155
+History,Teens,14
+History,Travel,751
+Home & Garden,Arts & Photography,1192
+Home & Garden,Biographies & Memoirs,110
+Home & Garden,Business & Investing,351
+Home & Garden,Children's Books,560
+Home & Garden,Comics & Graphic Novels,10
+Home & Garden,Computers & Internet,18
+Home & Garden,"Cooking, Food & Wine",332
+Home & Garden,Engineering,221
+Home & Garden,Entertainment,158
+Home & Garden,"Health, Mind & Body",541
+Home & Garden,History,196
+Home & Garden,Horror,1
+Home & Garden,Law,12
+Home & Garden,Literature & Fiction,109
+Home & Garden,Medicine,107
+Home & Garden,Mystery & Thrillers,9
+Home & Garden,Nonfiction,407
+Home & Garden,Outdoors & Nature,263
+Home & Garden,Professional & Technical,943
+Home & Garden,Religion & Spirituality,185
+Home & Garden,Science,646
+Home & Garden,Science Fiction & Fantasy,5
+Home & Garden,Sports,290
+Home & Garden,Teens,2
+Home & Garden,Travel,108
+Horror,Arts & Photography,6
+Horror,Biographies & Memoirs,9
+Horror,Children's Books,92
+Horror,Comics & Graphic Novels,26
+Horror,Entertainment,35
+Horror,Gay & Lesbian,8
+Horror,"Health, Mind & Body",1
+Horror,History,12
+Horror,Literature & Fiction,323
+Horror,Mystery & Thrillers,151
+Horror,Nonfiction,12
+Horror,Outdoors & Nature,2
+Horror,Religion & Spirituality,40
+Horror,Romance,16
+Horror,Science,4
+Horror,Science Fiction & Fantasy,273
+Horror,Teens,54
+Horror,Travel,4
+Large Print,Biographies & Memoirs,1
+Large Print,Children's Books,22
+Large Print,"Health, Mind & Body",3
+Large Print,Literature & Fiction,43
+Large Print,Mystery & Thrillers,25
+Large Print,Religion & Spirituality,20
+Large Print,Romance,21
+Law,Arts & Photography,9
+Law,Biographies & Memoirs,40
+Law,Business & Investing,426
+Law,Children's Books,10
+Law,Computers & Internet,20
+Law,Engineering,13
+Law,Entertainment,19
+Law,Gay & Lesbian,7
+Law,"Health, Mind & Body",127
+Law,History,121
+Law,Home & Garden,19
+Law,Literature & Fiction,35
+Law,Medicine,29
+Law,Mystery & Thrillers,4
+Law,Nonfiction,705
+Law,Outdoors & Nature,15
+Law,Professional & Technical,93
+Law,Religion & Spirituality,54
+Law,Science,23
+Law,Sports,8
+Law,Travel,1
+Literature & Fiction,Arts & Photography,726
+Literature & Fiction,Biographies & Memoirs,2962
+Literature & Fiction,Business & Investing,138
+Literature & Fiction,Children's Books,1293
+Literature & Fiction,Comics & Graphic Novels,127
+Literature & Fiction,Computers & Internet,35
+Literature & Fiction,"Cooking, Food & Wine",71
+Literature & Fiction,Engineering,4
+Literature & Fiction,Entertainment,627
+Literature & Fiction,Gay & Lesbian,228
+Literature & Fiction,"Health, Mind & Body",673
+Literature & Fiction,History,1485
+Literature & Fiction,Home & Garden,105
+Literature & Fiction,Horror,391
+Literature & Fiction,Law,31
+Literature & Fiction,Medicine,19
+Literature & Fiction,Mystery & Thrillers,1730
+Literature & Fiction,Nonfiction,2517
+Literature & Fiction,Outdoors & Nature,63
+Literature & Fiction,Professional & Technical,77
+Literature & Fiction,Religion & Spirituality,1545
+Literature & Fiction,Romance,613
+Literature & Fiction,Science,233
+Literature & Fiction,Science Fiction & Fantasy,869
+Literature & Fiction,Sports,126
+Literature & Fiction,Teens,129
+Literature & Fiction,Travel,523
+Medicine,Arts & Photography,9
+Medicine,Biographies & Memoirs,132
+Medicine,Business & Investing,203
+Medicine,Children's Books,24
+Medicine,Comics & Graphic Novels,1
+Medicine,Computers & Internet,34
+Medicine,"Cooking, Food & Wine",23
+Medicine,Engineering,18
+Medicine,Entertainment,28
+Medicine,Gay & Lesbian,2
+Medicine,"Health, Mind & Body",1809
+Medicine,History,54
+Medicine,Home & Garden,133
+Medicine,Law,16
+Medicine,Literature & Fiction,23
+Medicine,Mystery & Thrillers,3
+Medicine,Nonfiction,327
+Medicine,Outdoors & Nature,12
+Medicine,Professional & Technical,1050
+Medicine,Religion & Spirituality,75
+Medicine,Science,310
+Medicine,Sports,54
+Medicine,Travel,1
+Mystery & Thrillers,Arts & Photography,6
+Mystery & Thrillers,Biographies & Memoirs,80
+Mystery & Thrillers,Business & Investing,24
+Mystery & Thrillers,Children's Books,55
+Mystery & Thrillers,Comics & Graphic Novels,12
+Mystery & Thrillers,Computers & Internet,4
+Mystery & Thrillers,"Cooking, Food & Wine",4
+Mystery & Thrillers,Entertainment,36
+Mystery & Thrillers,Gay & Lesbian,30
+Mystery & Thrillers,"Health, Mind & Body",28
+Mystery & Thrillers,History,54
+Mystery & Thrillers,Home & Garden,10
+Mystery & Thrillers,Horror,126
+Mystery & Thrillers,Law,4
+Mystery & Thrillers,Literature & Fiction,1647
+Mystery & Thrillers,Medicine,11
+Mystery & Thrillers,Nonfiction,83
+Mystery & Thrillers,Professional & Technical,9
+Mystery & Thrillers,Religion & Spirituality,102
+Mystery & Thrillers,Romance,243
+Mystery & Thrillers,Science,8
+Mystery & Thrillers,Science Fiction & Fantasy,151
+Mystery & Thrillers,Sports,3
+Mystery & Thrillers,Teens,19
+Mystery & Thrillers,Travel,22
+Nonfiction,Arts & Photography,761
+Nonfiction,Biographies & Memoirs,2028
+Nonfiction,Business & Investing,2797
+Nonfiction,Children's Books,1736
+Nonfiction,Comics & Graphic Novels,42
+Nonfiction,Computers & Internet,282
+Nonfiction,"Cooking, Food & Wine",92
+Nonfiction,Engineering,167
+Nonfiction,Entertainment,554
+Nonfiction,Gay & Lesbian,196
+Nonfiction,"Health, Mind & Body",3375
+Nonfiction,History,4057
+Nonfiction,Home & Garden,405
+Nonfiction,Horror,8
+Nonfiction,Law,682
+Nonfiction,Literature & Fiction,2689
+Nonfiction,Medicine,303
+Nonfiction,Mystery & Thrillers,82
+Nonfiction,Outdoors & Nature,138
+Nonfiction,Professional & Technical,615
+Nonfiction,Religion & Spirituality,3445
+Nonfiction,Romance,5
+Nonfiction,Science,1455
+Nonfiction,Science Fiction & Fantasy,39
+Nonfiction,Sports,518
+Nonfiction,Teens,60
+Nonfiction,Travel,389
+Outdoors & Nature,Arts & Photography,45
+Outdoors & Nature,Biographies & Memoirs,53
+Outdoors & Nature,Business & Investing,57
+Outdoors & Nature,Children's Books,42
+Outdoors & Nature,"Cooking, Food & Wine",30
+Outdoors & Nature,Engineering,14
+Outdoors & Nature,Entertainment,18
+Outdoors & Nature,"Health, Mind & Body",45
+Outdoors & Nature,History,91
+Outdoors & Nature,Home & Garden,263
+Outdoors & Nature,Horror,3
+Outdoors & Nature,Law,9
+Outdoors & Nature,Literature & Fiction,85
+Outdoors & Nature,Medicine,9
+Outdoors & Nature,Mystery & Thrillers,25
+Outdoors & Nature,Nonfiction,110
+Outdoors & Nature,Professional & Technical,21
+Outdoors & Nature,Religion & Spirituality,38
+Outdoors & Nature,Science,794
+Outdoors & Nature,Sports,128
+Outdoors & Nature,Teens,1
+Outdoors & Nature,Travel,372
+Pop,Entertainment,1
+Professional & Technical,Arts & Photography,567
+Professional & Technical,Biographies & Memoirs,60
+Professional & Technical,Business & Investing,252
+Professional & Technical,Children's Books,104
+Professional & Technical,Comics & Graphic Novels,3
+Professional & Technical,Computers & Internet,91
+Professional & Technical,"Cooking, Food & Wine",22
+Professional & Technical,Engineering,127
+Professional & Technical,Entertainment,69
+Professional & Technical,Gay & Lesbian,2
+Professional & Technical,"Health, Mind & Body",436
+Professional & Technical,History,149
+Professional & Technical,Home & Garden,1029
+Professional & Technical,Law,64
+Professional & Technical,Literature & Fiction,73
+Professional & Technical,Medicine,1110
+Professional & Technical,Mystery & Thrillers,8
+Professional & Technical,Nonfiction,620
+Professional & Technical,Outdoors & Nature,53
+Professional & Technical,Religion & Spirituality,89
+Professional & Technical,Science,729
+Professional & Technical,Sports,17
+Professional & Technical,Travel,190
+Religion & Spirituality,Arts & Photography,215
+Religion & Spirituality,Biographies & Memoirs,1477
+Religion & Spirituality,Business & Investing,518
+Religion & Spirituality,Children's Books,857
+Religion & Spirituality,Comics & Graphic Novels,20
+Religion & Spirituality,Computers & Internet,15
+Religion & Spirituality,"Cooking, Food & Wine",61
+Religion & Spirituality,Engineering,2
+Religion & Spirituality,Entertainment,320
+Religion & Spirituality,Gay & Lesbian,61
+Religion & Spirituality,"Health, Mind & Body",4173
+Religion & Spirituality,History,932
+Religion & Spirituality,Home & Garden,163
+Religion & Spirituality,Horror,21
+Religion & Spirituality,Large Print,25
+Religion & Spirituality,Law,38
+Religion & Spirituality,Literature & Fiction,1426
+Religion & Spirituality,Medicine,51
+Religion & Spirituality,Mystery & Thrillers,117
+Religion & Spirituality,Nonfiction,3160
+Religion & Spirituality,Outdoors & Nature,41
+Religion & Spirituality,Professional & Technical,85
+Religion & Spirituality,Romance,87
+Religion & Spirituality,Science,397
+Religion & Spirituality,Science Fiction & Fantasy,86
+Religion & Spirituality,Sports,68
+Religion & Spirituality,Teens,33
+Religion & Spirituality,Travel,135
+Romance,Arts & Photography,1
+Romance,Biographies & Memoirs,4
+Romance,Business & Investing,1
+Romance,Children's Books,8
+Romance,Comics & Graphic Novels,3
+Romance,Entertainment,1
+Romance,Gay & Lesbian,10
+Romance,"Health, Mind & Body",3
+Romance,History,3
+Romance,Horror,23
+Romance,Law,2
+Romance,Literature & Fiction,548
+Romance,Medicine,1
+Romance,Mystery & Thrillers,260
+Romance,Nonfiction,11
+Romance,Religion & Spirituality,85
+Romance,Science,3
+Romance,Science Fiction & Fantasy,25
+Romance,Teens,1
+Science,Arts & Photography,220
+Science,Biographies & Memoirs,327
+Science,Business & Investing,521
+Science,Children's Books,440
+Science,Comics & Graphic Novels,3
+Science,Computers & Internet,470
+Science,"Cooking, Food & Wine",77
+Science,Engineering,808
+Science,Entertainment,120
+Science,Gay & Lesbian,7
+Science,"Health, Mind & Body",539
+Science,History,355
+Science,Home & Garden,602
+Science,Horror,1
+Science,Law,12
+Science,Literature & Fiction,238
+Science,Medicine,304
+Science,Mystery & Thrillers,22
+Science,Nonfiction,1288
+Science,Outdoors & Nature,798
+Science,Professional & Technical,652
+Science,Religion & Spirituality,442
+Science,Science Fiction & Fantasy,46
+Science,Sports,54
+Science,Teens,42
+Science,Travel,226
+Science Fiction & Fantasy,Arts & Photography,50
+Science Fiction & Fantasy,Biographies & Memoirs,24
+Science Fiction & Fantasy,Business & Investing,3
+Science Fiction & Fantasy,Children's Books,308
+Science Fiction & Fantasy,Comics & Graphic Novels,242
+Science Fiction & Fantasy,Computers & Internet,4
+Science Fiction & Fantasy,"Cooking, Food & Wine",1
+Science Fiction & Fantasy,Entertainment,273
+Science Fiction & Fantasy,Gay & Lesbian,8
+Science Fiction & Fantasy,"Health, Mind & Body",10
+Science Fiction & Fantasy,History,16
+Science Fiction & Fantasy,Home & Garden,3
+Science Fiction & Fantasy,Horror,240
+Science Fiction & Fantasy,Literature & Fiction,616
+Science Fiction & Fantasy,Medicine,1
+Science Fiction & Fantasy,Mystery & Thrillers,139
+Science Fiction & Fantasy,Nonfiction,32
+Science Fiction & Fantasy,Professional & Technical,3
+Science Fiction & Fantasy,Religion & Spirituality,76
+Science Fiction & Fantasy,Romance,12
+Science Fiction & Fantasy,Science,59
+Science Fiction & Fantasy,Teens,79
+Science Fiction & Fantasy,Travel,1
+Sports,Arts & Photography,56
+Sports,Biographies & Memoirs,262
+Sports,Business & Investing,140
+Sports,Children's Books,147
+Sports,Comics & Graphic Novels,2
+Sports,Computers & Internet,2
+Sports,"Cooking, Food & Wine",32
+Sports,Engineering,46
+Sports,Entertainment,117
+Sports,Gay & Lesbian,4
+Sports,"Health, Mind & Body",504
+Sports,History,117
+Sports,Home & Garden,308
+Sports,Horror,1
+Sports,Law,2
+Sports,Literature & Fiction,120
+Sports,Medicine,29
+Sports,Mystery & Thrillers,14
+Sports,Nonfiction,446
+Sports,Outdoors & Nature,169
+Sports,Professional & Technical,17
+Sports,Religion & Spirituality,65
+Sports,Science,34
+Sports,Science Fiction & Fantasy,2
+Sports,Teens,6
+Sports,Travel,423
+Teens,Arts & Photography,6
+Teens,Biographies & Memoirs,37
+Teens,Business & Investing,7
+Teens,Children's Books,1633
+Teens,Comics & Graphic Novels,19
+Teens,Computers & Internet,1
+Teens,Entertainment,5
+Teens,Gay & Lesbian,5
+Teens,"Health, Mind & Body",56
+Teens,History,16
+Teens,Home & Garden,2
+Teens,Horror,51
+Teens,Literature & Fiction,118
+Teens,Medicine,1
+Teens,Mystery & Thrillers,16
+Teens,Nonfiction,42
+Teens,Outdoors & Nature,1
+Teens,Professional & Technical,1
+Teens,Religion & Spirituality,51
+Teens,Science,54
+Teens,Science Fiction & Fantasy,145
+Teens,Sports,9
+Teens,Travel,7
+Travel,Arts & Photography,366
+Travel,Biographies & Memoirs,440
+Travel,Business & Investing,120
+Travel,Children's Books,130
+Travel,Comics & Graphic Novels,15
+Travel,Computers & Internet,3
+Travel,"Cooking, Food & Wine",173
+Travel,Engineering,8
+Travel,Entertainment,66
+Travel,Gay & Lesbian,1
+Travel,"Health, Mind & Body",76
+Travel,History,756
+Travel,Home & Garden,129
+Travel,Horror,4
+Travel,Law,2
+Travel,Literature & Fiction,452
+Travel,Medicine,2
+Travel,Mystery & Thrillers,41
+Travel,Nonfiction,386
+Travel,Outdoors & Nature,415
+Travel,Professional & Technical,197
+Travel,Religion & Spirituality,176
+Travel,Science,249
+Travel,Science Fiction & Fantasy,1
+Travel,Sports,504
+Travel,Teens,2
