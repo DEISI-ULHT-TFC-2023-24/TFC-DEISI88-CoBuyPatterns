@@ -343,13 +343,6 @@ Horror,Science,4
 Horror,Science Fiction & Fantasy,273
 Horror,Teens,54
 Horror,Travel,4
-Large Print,Biographies & Memoirs,1
-Large Print,Children's Books,22
-Large Print,"Health, Mind & Body",3
-Large Print,Literature & Fiction,43
-Large Print,Mystery & Thrillers,25
-Large Print,Religion & Spirituality,20
-Large Print,Romance,21
 Law,Arts & Photography,9
 Law,Biographies & Memoirs,40
 Law,Business & Investing,426
@@ -495,7 +488,6 @@ Outdoors & Nature,Science,794
 Outdoors & Nature,Sports,128
 Outdoors & Nature,Teens,1
 Outdoors & Nature,Travel,372
-Pop,Entertainment,1
 Professional & Technical,Arts & Photography,567
 Professional & Technical,Biographies & Memoirs,60
 Professional & Technical,Business & Investing,252
@@ -533,7 +525,6 @@ Religion & Spirituality,"Health, Mind & Body",4173
 Religion & Spirituality,History,932
 Religion & Spirituality,Home & Garden,163
 Religion & Spirituality,Horror,21
-Religion & Spirituality,Large Print,25
 Religion & Spirituality,Law,38
 Religion & Spirituality,Literature & Fiction,1426
 Religion & Spirituality,Medicine,51
