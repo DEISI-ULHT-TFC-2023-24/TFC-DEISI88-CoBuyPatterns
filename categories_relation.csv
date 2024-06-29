@@ -1,0 +1,666 @@
+,categories_x,categories_y,count
+0,Arts & Photography,Arts & Photography,18759
+1,Arts & Photography,Biographies & Memoirs,473
+2,Arts & Photography,Business & Investing,276
+3,Arts & Photography,Children's Books,650
+4,Arts & Photography,Comics & Graphic Novels,114
+5,Arts & Photography,Computers & Internet,198
+6,Arts & Photography,"Cooking, Food & Wine",34
+7,Arts & Photography,Engineering,23
+8,Arts & Photography,Entertainment,522
+9,Arts & Photography,"Health, Mind & Body",313
+10,Arts & Photography,History,527
+11,Arts & Photography,Home & Garden,1162
+12,Arts & Photography,Horror,2
+13,Arts & Photography,Law,8
+14,Arts & Photography,Literature & Fiction,891
+15,Arts & Photography,Medicine,6
+16,Arts & Photography,Mystery & Thrillers,7
+17,Arts & Photography,Nonfiction,795
+18,Arts & Photography,Outdoors & Nature,66
+19,Arts & Photography,Professional & Technical,543
+20,Arts & Photography,Religion & Spirituality,294
+21,Arts & Photography,Romance,1
+22,Arts & Photography,Science,219
+23,Arts & Photography,Science Fiction & Fantasy,60
+24,Arts & Photography,Sports,54
+25,Arts & Photography,Teens,5
+26,Arts & Photography,Travel,397
+27,Biographies & Memoirs,Arts & Photography,548
+28,Biographies & Memoirs,Biographies & Memoirs,9216
+29,Biographies & Memoirs,Business & Investing,392
+30,Biographies & Memoirs,Children's Books,711
+31,Biographies & Memoirs,Comics & Graphic Novels,41
+32,Biographies & Memoirs,Computers & Internet,15
+33,Biographies & Memoirs,"Cooking, Food & Wine",94
+34,Biographies & Memoirs,Engineering,2
+35,Biographies & Memoirs,Entertainment,1102
+36,Biographies & Memoirs,"Health, Mind & Body",994
+37,Biographies & Memoirs,History,2558
+38,Biographies & Memoirs,Home & Garden,134
+39,Biographies & Memoirs,Horror,20
+40,Biographies & Memoirs,Law,74
+41,Biographies & Memoirs,Literature & Fiction,3226
+42,Biographies & Memoirs,Medicine,146
+43,Biographies & Memoirs,Mystery & Thrillers,165
+44,Biographies & Memoirs,Nonfiction,2176
+45,Biographies & Memoirs,Outdoors & Nature,84
+46,Biographies & Memoirs,Professional & Technical,105
+47,Biographies & Memoirs,Religion & Spirituality,2066
+48,Biographies & Memoirs,Romance,16
+49,Biographies & Memoirs,Science,430
+50,Biographies & Memoirs,Science Fiction & Fantasy,41
+51,Biographies & Memoirs,Sports,316
+52,Biographies & Memoirs,Teens,45
+53,Biographies & Memoirs,Travel,470
+54,Business & Investing,Arts & Photography,228
+55,Business & Investing,Biographies & Memoirs,284
+56,Business & Investing,Business & Investing,35711
+57,Business & Investing,Children's Books,73
+58,Business & Investing,Comics & Graphic Novels,4
+59,Business & Investing,Computers & Internet,400
+60,Business & Investing,"Cooking, Food & Wine",114
+61,Business & Investing,Engineering,294
+62,Business & Investing,Entertainment,185
+63,Business & Investing,"Health, Mind & Body",1813
+64,Business & Investing,History,505
+65,Business & Investing,Home & Garden,275
+66,Business & Investing,Law,339
+67,Business & Investing,Literature & Fiction,170
+68,Business & Investing,Medicine,177
+69,Business & Investing,Mystery & Thrillers,17
+70,Business & Investing,Nonfiction,2611
+71,Business & Investing,Outdoors & Nature,65
+72,Business & Investing,Professional & Technical,253
+73,Business & Investing,Religion & Spirituality,499
+74,Business & Investing,Science,486
+75,Business & Investing,Science Fiction & Fantasy,4
+76,Business & Investing,Sports,116
+77,Business & Investing,Teens,4
+78,Business & Investing,Travel,116
+79,Children's Books,Arts & Photography,543
+80,Children's Books,Biographies & Memoirs,584
+81,Children's Books,Business & Investing,79
+82,Children's Books,Children's Books,99954
+83,Children's Books,Comics & Graphic Novels,291
+84,Children's Books,Computers & Internet,15
+85,Children's Books,"Cooking, Food & Wine",109
+86,Children's Books,Engineering,12
+87,Children's Books,Entertainment,493
+88,Children's Books,"Health, Mind & Body",450
+89,Children's Books,History,347
+90,Children's Books,Home & Garden,564
+91,Children's Books,Horror,98
+92,Children's Books,Law,6
+93,Children's Books,Literature & Fiction,1391
+94,Children's Books,Medicine,13
+95,Children's Books,Mystery & Thrillers,88
+96,Children's Books,Nonfiction,1335
+97,Children's Books,Outdoors & Nature,45
+98,Children's Books,Professional & Technical,62
+99,Children's Books,Religion & Spirituality,842
+100,Children's Books,Romance,20
+101,Children's Books,Science,423
+102,Children's Books,Science Fiction & Fantasy,488
+103,Children's Books,Sports,165
+104,Children's Books,Teens,1694
+105,Children's Books,Travel,95
+106,Comics & Graphic Novels,Arts & Photography,115
+107,Comics & Graphic Novels,Biographies & Memoirs,49
+108,Comics & Graphic Novels,Business & Investing,1
+109,Comics & Graphic Novels,Children's Books,268
+110,Comics & Graphic Novels,Comics & Graphic Novels,5534
+111,Comics & Graphic Novels,Computers & Internet,2
+112,Comics & Graphic Novels,"Cooking, Food & Wine",3
+113,Comics & Graphic Novels,Entertainment,234
+114,Comics & Graphic Novels,"Health, Mind & Body",12
+115,Comics & Graphic Novels,History,9
+116,Comics & Graphic Novels,Home & Garden,11
+117,Comics & Graphic Novels,Horror,17
+118,Comics & Graphic Novels,Literature & Fiction,92
+119,Comics & Graphic Novels,Medicine,1
+120,Comics & Graphic Novels,Mystery & Thrillers,13
+121,Comics & Graphic Novels,Nonfiction,40
+122,Comics & Graphic Novels,Professional & Technical,2
+123,Comics & Graphic Novels,Religion & Spirituality,23
+124,Comics & Graphic Novels,Romance,5
+125,Comics & Graphic Novels,Science,1
+126,Comics & Graphic Novels,Science Fiction & Fantasy,217
+127,Comics & Graphic Novels,Sports,9
+128,Comics & Graphic Novels,Teens,15
+129,Comics & Graphic Novels,Travel,13
+130,Computers & Internet,Arts & Photography,265
+131,Computers & Internet,Biographies & Memoirs,12
+132,Computers & Internet,Business & Investing,602
+133,Computers & Internet,Children's Books,36
+134,Computers & Internet,Comics & Graphic Novels,8
+135,Computers & Internet,Computers & Internet,29306
+136,Computers & Internet,"Cooking, Food & Wine",12
+137,Computers & Internet,Engineering,710
+138,Computers & Internet,Entertainment,228
+139,Computers & Internet,"Health, Mind & Body",98
+140,Computers & Internet,History,24
+141,Computers & Internet,Home & Garden,25
+142,Computers & Internet,Horror,1
+143,Computers & Internet,Law,37
+144,Computers & Internet,Literature & Fiction,28
+145,Computers & Internet,Medicine,38
+146,Computers & Internet,Mystery & Thrillers,2
+147,Computers & Internet,Nonfiction,361
+148,Computers & Internet,Outdoors & Nature,1
+149,Computers & Internet,Professional & Technical,88
+150,Computers & Internet,Religion & Spirituality,23
+151,Computers & Internet,Science,509
+152,Computers & Internet,Science Fiction & Fantasy,10
+153,Computers & Internet,Sports,2
+154,Computers & Internet,Teens,1
+155,Computers & Internet,Travel,2
+156,"Cooking, Food & Wine",Arts & Photography,35
+157,"Cooking, Food & Wine",Biographies & Memoirs,76
+158,"Cooking, Food & Wine",Business & Investing,138
+159,"Cooking, Food & Wine",Children's Books,126
+160,"Cooking, Food & Wine",Comics & Graphic Novels,4
+161,"Cooking, Food & Wine",Computers & Internet,7
+162,"Cooking, Food & Wine","Cooking, Food & Wine",14204
+163,"Cooking, Food & Wine",Engineering,7
+164,"Cooking, Food & Wine",Entertainment,58
+165,"Cooking, Food & Wine","Health, Mind & Body",921
+166,"Cooking, Food & Wine",History,81
+167,"Cooking, Food & Wine",Home & Garden,337
+168,"Cooking, Food & Wine",Literature & Fiction,67
+169,"Cooking, Food & Wine",Medicine,25
+170,"Cooking, Food & Wine",Mystery & Thrillers,19
+171,"Cooking, Food & Wine",Nonfiction,96
+172,"Cooking, Food & Wine",Outdoors & Nature,39
+173,"Cooking, Food & Wine",Professional & Technical,22
+174,"Cooking, Food & Wine",Religion & Spirituality,80
+175,"Cooking, Food & Wine",Romance,1
+176,"Cooking, Food & Wine",Science,82
+177,"Cooking, Food & Wine",Science Fiction & Fantasy,3
+178,"Cooking, Food & Wine",Sports,34
+179,"Cooking, Food & Wine",Teens,1
+180,"Cooking, Food & Wine",Travel,184
+181,Engineering,Arts & Photography,21
+182,Engineering,Biographies & Memoirs,1
+183,Engineering,Business & Investing,318
+184,Engineering,Children's Books,20
+185,Engineering,Computers & Internet,645
+186,Engineering,"Cooking, Food & Wine",4
+187,Engineering,Engineering,4927
+188,Engineering,Entertainment,59
+189,Engineering,"Health, Mind & Body",17
+190,Engineering,History,26
+191,Engineering,Home & Garden,286
+192,Engineering,Law,11
+193,Engineering,Literature & Fiction,7
+194,Engineering,Medicine,28
+195,Engineering,Nonfiction,166
+196,Engineering,Outdoors & Nature,20
+197,Engineering,Professional & Technical,148
+198,Engineering,Religion & Spirituality,2
+199,Engineering,Science,1014
+200,Engineering,Sports,36
+201,Engineering,Travel,4
+202,Entertainment,Arts & Photography,503
+203,Entertainment,Biographies & Memoirs,1083
+204,Entertainment,Business & Investing,179
+205,Entertainment,Children's Books,570
+206,Entertainment,Comics & Graphic Novels,232
+207,Entertainment,Computers & Internet,183
+208,Entertainment,"Cooking, Food & Wine",64
+209,Entertainment,Engineering,47
+210,Entertainment,Entertainment,19480
+211,Entertainment,"Health, Mind & Body",434
+212,Entertainment,History,159
+213,Entertainment,Home & Garden,165
+214,Entertainment,Horror,38
+215,Entertainment,Law,27
+216,Entertainment,Literature & Fiction,687
+217,Entertainment,Medicine,16
+218,Entertainment,Mystery & Thrillers,55
+219,Entertainment,Nonfiction,651
+220,Entertainment,Outdoors & Nature,18
+221,Entertainment,Professional & Technical,71
+222,Entertainment,Religion & Spirituality,404
+223,Entertainment,Science,103
+224,Entertainment,Science Fiction & Fantasy,298
+225,Entertainment,Sports,149
+226,Entertainment,Teens,9
+227,Entertainment,Travel,72
+228,"Health, Mind & Body",Arts & Photography,261
+229,"Health, Mind & Body",Biographies & Memoirs,710
+230,"Health, Mind & Body",Business & Investing,1964
+231,"Health, Mind & Body",Children's Books,518
+232,"Health, Mind & Body",Comics & Graphic Novels,8
+233,"Health, Mind & Body",Computers & Internet,70
+234,"Health, Mind & Body","Cooking, Food & Wine",901
+235,"Health, Mind & Body",Engineering,8
+236,"Health, Mind & Body",Entertainment,416
+237,"Health, Mind & Body","Health, Mind & Body",39870
+238,"Health, Mind & Body",History,163
+239,"Health, Mind & Body",Home & Garden,359
+240,"Health, Mind & Body",Horror,2
+241,"Health, Mind & Body",Law,76
+242,"Health, Mind & Body",Literature & Fiction,522
+243,"Health, Mind & Body",Medicine,1520
+244,"Health, Mind & Body",Mystery & Thrillers,27
+245,"Health, Mind & Body",Nonfiction,2937
+246,"Health, Mind & Body",Outdoors & Nature,43
+247,"Health, Mind & Body",Professional & Technical,386
+248,"Health, Mind & Body",Religion & Spirituality,3895
+249,"Health, Mind & Body",Romance,9
+250,"Health, Mind & Body",Science,549
+251,"Health, Mind & Body",Science Fiction & Fantasy,7
+252,"Health, Mind & Body",Sports,577
+253,"Health, Mind & Body",Teens,51
+254,"Health, Mind & Body",Travel,50
+255,History,Arts & Photography,421
+256,History,Biographies & Memoirs,2362
+257,History,Business & Investing,399
+258,History,Children's Books,407
+259,History,Comics & Graphic Novels,13
+260,History,Computers & Internet,13
+261,History,"Cooking, Food & Wine",84
+262,History,Engineering,13
+263,History,Entertainment,111
+264,History,"Health, Mind & Body",186
+265,History,History,18072
+266,History,Home & Garden,223
+267,History,Horror,6
+268,History,Law,115
+269,History,Literature & Fiction,1560
+270,History,Medicine,40
+271,History,Mystery & Thrillers,76
+272,History,Nonfiction,3665
+273,History,Outdoors & Nature,85
+274,History,Professional & Technical,168
+275,History,Religion & Spirituality,1082
+276,History,Romance,2
+277,History,Science,370
+278,History,Science Fiction & Fantasy,22
+279,History,Sports,155
+280,History,Teens,14
+281,History,Travel,751
+282,Home & Garden,Arts & Photography,1192
+283,Home & Garden,Biographies & Memoirs,110
+284,Home & Garden,Business & Investing,351
+285,Home & Garden,Children's Books,560
+286,Home & Garden,Comics & Graphic Novels,10
+287,Home & Garden,Computers & Internet,18
+288,Home & Garden,"Cooking, Food & Wine",332
+289,Home & Garden,Engineering,221
+290,Home & Garden,Entertainment,158
+291,Home & Garden,"Health, Mind & Body",541
+292,Home & Garden,History,196
+293,Home & Garden,Home & Garden,28662
+294,Home & Garden,Horror,1
+295,Home & Garden,Law,12
+296,Home & Garden,Literature & Fiction,109
+297,Home & Garden,Medicine,107
+298,Home & Garden,Mystery & Thrillers,9
+299,Home & Garden,Nonfiction,407
+300,Home & Garden,Outdoors & Nature,263
+301,Home & Garden,Professional & Technical,943
+302,Home & Garden,Religion & Spirituality,185
+303,Home & Garden,Science,646
+304,Home & Garden,Science Fiction & Fantasy,5
+305,Home & Garden,Sports,290
+306,Home & Garden,Teens,2
+307,Home & Garden,Travel,108
+308,Horror,Arts & Photography,6
+309,Horror,Biographies & Memoirs,9
+310,Horror,Children's Books,92
+311,Horror,Comics & Graphic Novels,26
+312,Horror,Entertainment,35
+313,Horror,"Health, Mind & Body",1
+314,Horror,History,12
+315,Horror,Horror,2704
+316,Horror,Literature & Fiction,323
+317,Horror,Mystery & Thrillers,151
+318,Horror,Nonfiction,12
+319,Horror,Outdoors & Nature,2
+320,Horror,Religion & Spirituality,40
+321,Horror,Romance,16
+322,Horror,Science,4
+323,Horror,Science Fiction & Fantasy,273
+324,Horror,Teens,54
+325,Horror,Travel,4
+326,Law,Arts & Photography,9
+327,Law,Biographies & Memoirs,40
+328,Law,Business & Investing,426
+329,Law,Children's Books,10
+330,Law,Computers & Internet,20
+331,Law,Engineering,13
+332,Law,Entertainment,19
+333,Law,"Health, Mind & Body",127
+334,Law,History,121
+335,Law,Home & Garden,19
+336,Law,Law,1888
+337,Law,Literature & Fiction,35
+338,Law,Medicine,29
+339,Law,Mystery & Thrillers,4
+340,Law,Nonfiction,705
+341,Law,Outdoors & Nature,15
+342,Law,Professional & Technical,93
+343,Law,Religion & Spirituality,54
+344,Law,Science,23
+345,Law,Sports,8
+346,Law,Travel,1
+347,Literature & Fiction,Arts & Photography,726
+348,Literature & Fiction,Biographies & Memoirs,2962
+349,Literature & Fiction,Business & Investing,138
+350,Literature & Fiction,Children's Books,1293
+351,Literature & Fiction,Comics & Graphic Novels,127
+352,Literature & Fiction,Computers & Internet,35
+353,Literature & Fiction,"Cooking, Food & Wine",71
+354,Literature & Fiction,Engineering,4
+355,Literature & Fiction,Entertainment,627
+356,Literature & Fiction,"Health, Mind & Body",673
+357,Literature & Fiction,History,1485
+358,Literature & Fiction,Home & Garden,105
+359,Literature & Fiction,Horror,391
+360,Literature & Fiction,Law,31
+361,Literature & Fiction,Literature & Fiction,53044
+362,Literature & Fiction,Medicine,19
+363,Literature & Fiction,Mystery & Thrillers,1730
+364,Literature & Fiction,Nonfiction,2517
+365,Literature & Fiction,Outdoors & Nature,63
+366,Literature & Fiction,Professional & Technical,77
+367,Literature & Fiction,Religion & Spirituality,1545
+368,Literature & Fiction,Romance,613
+369,Literature & Fiction,Science,233
+370,Literature & Fiction,Science Fiction & Fantasy,869
+371,Literature & Fiction,Sports,126
+372,Literature & Fiction,Teens,129
+373,Literature & Fiction,Travel,523
+374,Medicine,Arts & Photography,9
+375,Medicine,Biographies & Memoirs,132
+376,Medicine,Business & Investing,203
+377,Medicine,Children's Books,24
+378,Medicine,Comics & Graphic Novels,1
+379,Medicine,Computers & Internet,34
+380,Medicine,"Cooking, Food & Wine",23
+381,Medicine,Engineering,18
+382,Medicine,Entertainment,28
+383,Medicine,"Health, Mind & Body",1809
+384,Medicine,History,54
+385,Medicine,Home & Garden,133
+386,Medicine,Law,16
+387,Medicine,Literature & Fiction,23
+388,Medicine,Medicine,10616
+389,Medicine,Mystery & Thrillers,3
+390,Medicine,Nonfiction,327
+391,Medicine,Outdoors & Nature,12
+392,Medicine,Professional & Technical,1050
+393,Medicine,Religion & Spirituality,75
+394,Medicine,Science,310
+395,Medicine,Sports,54
+396,Medicine,Travel,1
+397,Mystery & Thrillers,Arts & Photography,6
+398,Mystery & Thrillers,Biographies & Memoirs,80
+399,Mystery & Thrillers,Business & Investing,24
+400,Mystery & Thrillers,Children's Books,55
+401,Mystery & Thrillers,Comics & Graphic Novels,12
+402,Mystery & Thrillers,Computers & Internet,4
+403,Mystery & Thrillers,"Cooking, Food & Wine",4
+404,Mystery & Thrillers,Entertainment,36
+405,Mystery & Thrillers,"Health, Mind & Body",28
+406,Mystery & Thrillers,History,54
+407,Mystery & Thrillers,Home & Garden,10
+408,Mystery & Thrillers,Horror,126
+409,Mystery & Thrillers,Law,4
+410,Mystery & Thrillers,Literature & Fiction,1647
+411,Mystery & Thrillers,Medicine,11
+412,Mystery & Thrillers,Mystery & Thrillers,18875
+413,Mystery & Thrillers,Nonfiction,83
+414,Mystery & Thrillers,Professional & Technical,9
+415,Mystery & Thrillers,Religion & Spirituality,102
+416,Mystery & Thrillers,Romance,243
+417,Mystery & Thrillers,Science,8
+418,Mystery & Thrillers,Science Fiction & Fantasy,151
+419,Mystery & Thrillers,Sports,3
+420,Mystery & Thrillers,Teens,19
+421,Mystery & Thrillers,Travel,22
+422,Nonfiction,Arts & Photography,761
+423,Nonfiction,Biographies & Memoirs,2028
+424,Nonfiction,Business & Investing,2797
+425,Nonfiction,Children's Books,1736
+426,Nonfiction,Comics & Graphic Novels,42
+427,Nonfiction,Computers & Internet,282
+428,Nonfiction,"Cooking, Food & Wine",92
+429,Nonfiction,Engineering,167
+430,Nonfiction,Entertainment,554
+431,Nonfiction,"Health, Mind & Body",3375
+432,Nonfiction,History,4057
+433,Nonfiction,Home & Garden,405
+434,Nonfiction,Horror,8
+435,Nonfiction,Law,682
+436,Nonfiction,Literature & Fiction,2689
+437,Nonfiction,Medicine,303
+438,Nonfiction,Mystery & Thrillers,82
+439,Nonfiction,Nonfiction,44029
+440,Nonfiction,Outdoors & Nature,138
+441,Nonfiction,Professional & Technical,615
+442,Nonfiction,Religion & Spirituality,3445
+443,Nonfiction,Romance,5
+444,Nonfiction,Science,1455
+445,Nonfiction,Science Fiction & Fantasy,39
+446,Nonfiction,Sports,518
+447,Nonfiction,Teens,60
+448,Nonfiction,Travel,389
+449,Outdoors & Nature,Arts & Photography,45
+450,Outdoors & Nature,Biographies & Memoirs,53
+451,Outdoors & Nature,Business & Investing,57
+452,Outdoors & Nature,Children's Books,42
+453,Outdoors & Nature,"Cooking, Food & Wine",30
+454,Outdoors & Nature,Engineering,14
+455,Outdoors & Nature,Entertainment,18
+456,Outdoors & Nature,"Health, Mind & Body",45
+457,Outdoors & Nature,History,91
+458,Outdoors & Nature,Home & Garden,263
+459,Outdoors & Nature,Horror,3
+460,Outdoors & Nature,Law,9
+461,Outdoors & Nature,Literature & Fiction,85
+462,Outdoors & Nature,Medicine,9
+463,Outdoors & Nature,Mystery & Thrillers,25
+464,Outdoors & Nature,Nonfiction,110
+465,Outdoors & Nature,Outdoors & Nature,2856
+466,Outdoors & Nature,Professional & Technical,21
+467,Outdoors & Nature,Religion & Spirituality,38
+468,Outdoors & Nature,Science,794
+469,Outdoors & Nature,Sports,128
+470,Outdoors & Nature,Teens,1
+471,Outdoors & Nature,Travel,372
+472,Professional & Technical,Arts & Photography,567
+473,Professional & Technical,Biographies & Memoirs,60
+474,Professional & Technical,Business & Investing,252
+475,Professional & Technical,Children's Books,104
+476,Professional & Technical,Comics & Graphic Novels,3
+477,Professional & Technical,Computers & Internet,91
+478,Professional & Technical,"Cooking, Food & Wine",22
+479,Professional & Technical,Engineering,127
+480,Professional & Technical,Entertainment,69
+481,Professional & Technical,"Health, Mind & Body",436
+482,Professional & Technical,History,149
+483,Professional & Technical,Home & Garden,1029
+484,Professional & Technical,Law,64
+485,Professional & Technical,Literature & Fiction,73
+486,Professional & Technical,Medicine,1110
+487,Professional & Technical,Mystery & Thrillers,8
+488,Professional & Technical,Nonfiction,620
+489,Professional & Technical,Outdoors & Nature,53
+490,Professional & Technical,Professional & Technical,6455
+491,Professional & Technical,Religion & Spirituality,89
+492,Professional & Technical,Science,729
+493,Professional & Technical,Sports,17
+494,Professional & Technical,Travel,190
+495,Religion & Spirituality,Arts & Photography,215
+496,Religion & Spirituality,Biographies & Memoirs,1477
+497,Religion & Spirituality,Business & Investing,518
+498,Religion & Spirituality,Children's Books,857
+499,Religion & Spirituality,Comics & Graphic Novels,20
+500,Religion & Spirituality,Computers & Internet,15
+501,Religion & Spirituality,"Cooking, Food & Wine",61
+502,Religion & Spirituality,Engineering,2
+503,Religion & Spirituality,Entertainment,320
+504,Religion & Spirituality,"Health, Mind & Body",4173
+505,Religion & Spirituality,History,932
+506,Religion & Spirituality,Home & Garden,163
+507,Religion & Spirituality,Horror,21
+508,Religion & Spirituality,Law,38
+509,Religion & Spirituality,Literature & Fiction,1426
+510,Religion & Spirituality,Medicine,51
+511,Religion & Spirituality,Mystery & Thrillers,117
+512,Religion & Spirituality,Nonfiction,3160
+513,Religion & Spirituality,Outdoors & Nature,41
+514,Religion & Spirituality,Professional & Technical,85
+515,Religion & Spirituality,Religion & Spirituality,64427
+516,Religion & Spirituality,Romance,87
+517,Religion & Spirituality,Science,397
+518,Religion & Spirituality,Science Fiction & Fantasy,86
+519,Religion & Spirituality,Sports,68
+520,Religion & Spirituality,Teens,33
+521,Religion & Spirituality,Travel,135
+522,Romance,Arts & Photography,1
+523,Romance,Biographies & Memoirs,4
+524,Romance,Business & Investing,1
+525,Romance,Children's Books,8
+526,Romance,Comics & Graphic Novels,3
+527,Romance,Entertainment,1
+528,Romance,"Health, Mind & Body",3
+529,Romance,History,3
+530,Romance,Horror,23
+531,Romance,Law,2
+532,Romance,Literature & Fiction,548
+533,Romance,Medicine,1
+534,Romance,Mystery & Thrillers,260
+535,Romance,Nonfiction,11
+536,Romance,Religion & Spirituality,85
+537,Romance,Romance,10964
+538,Romance,Science,3
+539,Romance,Science Fiction & Fantasy,25
+540,Romance,Teens,1
+541,Science,Arts & Photography,220
+542,Science,Biographies & Memoirs,327
+543,Science,Business & Investing,521
+544,Science,Children's Books,440
+545,Science,Comics & Graphic Novels,3
+546,Science,Computers & Internet,470
+547,Science,"Cooking, Food & Wine",77
+548,Science,Engineering,808
+549,Science,Entertainment,120
+550,Science,"Health, Mind & Body",539
+551,Science,History,355
+552,Science,Home & Garden,602
+553,Science,Horror,1
+554,Science,Law,12
+555,Science,Literature & Fiction,238
+556,Science,Medicine,304
+557,Science,Mystery & Thrillers,22
+558,Science,Nonfiction,1288
+559,Science,Outdoors & Nature,798
+560,Science,Professional & Technical,652
+561,Science,Religion & Spirituality,442
+562,Science,Science,16172
+563,Science,Science Fiction & Fantasy,46
+564,Science,Sports,54
+565,Science,Teens,42
+566,Science,Travel,226
+567,Science Fiction & Fantasy,Arts & Photography,50
+568,Science Fiction & Fantasy,Biographies & Memoirs,24
+569,Science Fiction & Fantasy,Business & Investing,3
+570,Science Fiction & Fantasy,Children's Books,308
+571,Science Fiction & Fantasy,Comics & Graphic Novels,242
+572,Science Fiction & Fantasy,Computers & Internet,4
+573,Science Fiction & Fantasy,"Cooking, Food & Wine",1
+574,Science Fiction & Fantasy,Entertainment,273
+575,Science Fiction & Fantasy,"Health, Mind & Body",10
+576,Science Fiction & Fantasy,History,16
+577,Science Fiction & Fantasy,Home & Garden,3
+578,Science Fiction & Fantasy,Horror,240
+579,Science Fiction & Fantasy,Literature & Fiction,616
+580,Science Fiction & Fantasy,Medicine,1
+581,Science Fiction & Fantasy,Mystery & Thrillers,139
+582,Science Fiction & Fantasy,Nonfiction,32
+583,Science Fiction & Fantasy,Professional & Technical,3
+584,Science Fiction & Fantasy,Religion & Spirituality,76
+585,Science Fiction & Fantasy,Romance,12
+586,Science Fiction & Fantasy,Science,59
+587,Science Fiction & Fantasy,Science Fiction & Fantasy,15130
+588,Science Fiction & Fantasy,Teens,79
+589,Science Fiction & Fantasy,Travel,1
+590,Sports,Arts & Photography,56
+591,Sports,Biographies & Memoirs,262
+592,Sports,Business & Investing,140
+593,Sports,Children's Books,147
+594,Sports,Comics & Graphic Novels,2
+595,Sports,Computers & Internet,2
+596,Sports,"Cooking, Food & Wine",32
+597,Sports,Engineering,46
+598,Sports,Entertainment,117
+599,Sports,"Health, Mind & Body",504
+600,Sports,History,117
+601,Sports,Home & Garden,308
+602,Sports,Horror,1
+603,Sports,Law,2
+604,Sports,Literature & Fiction,120
+605,Sports,Medicine,29
+606,Sports,Mystery & Thrillers,14
+607,Sports,Nonfiction,446
+608,Sports,Outdoors & Nature,169
+609,Sports,Professional & Technical,17
+610,Sports,Religion & Spirituality,65
+611,Sports,Science,34
+612,Sports,Science Fiction & Fantasy,2
+613,Sports,Sports,9678
+614,Sports,Teens,6
+615,Sports,Travel,423
+616,Teens,Arts & Photography,6
+617,Teens,Biographies & Memoirs,37
+618,Teens,Business & Investing,7
+619,Teens,Children's Books,1633
+620,Teens,Comics & Graphic Novels,19
+621,Teens,Computers & Internet,1
+622,Teens,Entertainment,5
+623,Teens,"Health, Mind & Body",56
+624,Teens,History,16
+625,Teens,Home & Garden,2
+626,Teens,Horror,51
+627,Teens,Literature & Fiction,118
+628,Teens,Medicine,1
+629,Teens,Mystery & Thrillers,16
+630,Teens,Nonfiction,42
+631,Teens,Outdoors & Nature,1
+632,Teens,Professional & Technical,1
+633,Teens,Religion & Spirituality,51
+634,Teens,Science,54
+635,Teens,Science Fiction & Fantasy,145
+636,Teens,Sports,9
+637,Teens,Teens,1778
+638,Teens,Travel,7
+639,Travel,Arts & Photography,366
+640,Travel,Biographies & Memoirs,440
+641,Travel,Business & Investing,120
+642,Travel,Children's Books,130
+643,Travel,Comics & Graphic Novels,15
+644,Travel,Computers & Internet,3
+645,Travel,"Cooking, Food & Wine",173
+646,Travel,Engineering,8
+647,Travel,Entertainment,66
+648,Travel,"Health, Mind & Body",76
+649,Travel,History,756
+650,Travel,Home & Garden,129
+651,Travel,Horror,4
+652,Travel,Law,2
+653,Travel,Literature & Fiction,452
+654,Travel,Medicine,2
+655,Travel,Mystery & Thrillers,41
+656,Travel,Nonfiction,386
+657,Travel,Outdoors & Nature,415
+658,Travel,Professional & Technical,197
+659,Travel,Religion & Spirituality,176
+660,Travel,Science,249
+661,Travel,Science Fiction & Fantasy,1
+662,Travel,Sports,504
+663,Travel,Teens,2
+664,Travel,Travel,13258

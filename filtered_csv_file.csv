@@ -7,7 +7,6 @@ Arts & Photography,Computers & Internet,198
 Arts & Photography,"Cooking, Food & Wine",34
 Arts & Photography,Engineering,23
 Arts & Photography,Entertainment,522
-Arts & Photography,Gay & Lesbian,17
 Arts & Photography,"Health, Mind & Body",313
 Arts & Photography,History,527
 Arts & Photography,Home & Garden,1162
@@ -34,7 +33,6 @@ Biographies & Memoirs,Computers & Internet,15
 Biographies & Memoirs,"Cooking, Food & Wine",94
 Biographies & Memoirs,Engineering,2
 Biographies & Memoirs,Entertainment,1102
-Biographies & Memoirs,Gay & Lesbian,74
 Biographies & Memoirs,"Health, Mind & Body",994
 Biographies & Memoirs,History,2558
 Biographies & Memoirs,Home & Garden,134
@@ -61,7 +59,6 @@ Business & Investing,Computers & Internet,400
 Business & Investing,"Cooking, Food & Wine",114
 Business & Investing,Engineering,294
 Business & Investing,Entertainment,185
-Business & Investing,Gay & Lesbian,6
 Business & Investing,"Health, Mind & Body",1813
 Business & Investing,History,505
 Business & Investing,Home & Garden,275
@@ -86,7 +83,6 @@ Children's Books,Computers & Internet,15
 Children's Books,"Cooking, Food & Wine",109
 Children's Books,Engineering,12
 Children's Books,Entertainment,493
-Children's Books,Gay & Lesbian,12
 Children's Books,"Health, Mind & Body",450
 Children's Books,History,347
 Children's Books,Home & Garden,564
@@ -112,7 +108,6 @@ Comics & Graphic Novels,Children's Books,268
 Comics & Graphic Novels,Computers & Internet,2
 Comics & Graphic Novels,"Cooking, Food & Wine",3
 Comics & Graphic Novels,Entertainment,234
-Comics & Graphic Novels,Gay & Lesbian,3
 Comics & Graphic Novels,"Health, Mind & Body",12
 Comics & Graphic Novels,History,9
 Comics & Graphic Novels,Home & Garden,11
@@ -206,7 +201,6 @@ Entertainment,Comics & Graphic Novels,232
 Entertainment,Computers & Internet,183
 Entertainment,"Cooking, Food & Wine",64
 Entertainment,Engineering,47
-Entertainment,Gay & Lesbian,17
 Entertainment,"Health, Mind & Body",434
 Entertainment,History,159
 Entertainment,Home & Garden,165
@@ -224,28 +218,6 @@ Entertainment,Science Fiction & Fantasy,298
 Entertainment,Sports,149
 Entertainment,Teens,9
 Entertainment,Travel,72
-Gay & Lesbian,Arts & Photography,22
-Gay & Lesbian,Biographies & Memoirs,73
-Gay & Lesbian,Business & Investing,5
-Gay & Lesbian,Children's Books,8
-Gay & Lesbian,Comics & Graphic Novels,5
-Gay & Lesbian,"Cooking, Food & Wine",3
-Gay & Lesbian,Entertainment,19
-Gay & Lesbian,"Health, Mind & Body",87
-Gay & Lesbian,History,23
-Gay & Lesbian,Horror,2
-Gay & Lesbian,Law,1
-Gay & Lesbian,Literature & Fiction,272
-Gay & Lesbian,Medicine,3
-Gay & Lesbian,Mystery & Thrillers,34
-Gay & Lesbian,Nonfiction,229
-Gay & Lesbian,Professional & Technical,2
-Gay & Lesbian,Religion & Spirituality,55
-Gay & Lesbian,Science,4
-Gay & Lesbian,Science Fiction & Fantasy,19
-Gay & Lesbian,Sports,6
-Gay & Lesbian,Teens,10
-Gay & Lesbian,Travel,6
 "Health, Mind & Body",Arts & Photography,261
 "Health, Mind & Body",Biographies & Memoirs,710
 "Health, Mind & Body",Business & Investing,1964
@@ -255,7 +227,6 @@ Gay & Lesbian,Travel,6
 "Health, Mind & Body","Cooking, Food & Wine",901
 "Health, Mind & Body",Engineering,8
 "Health, Mind & Body",Entertainment,416
-"Health, Mind & Body",Gay & Lesbian,53
 "Health, Mind & Body",History,163
 "Health, Mind & Body",Home & Garden,359
 "Health, Mind & Body",Horror,2
@@ -282,7 +253,6 @@ History,Computers & Internet,13
 History,"Cooking, Food & Wine",84
 History,Engineering,13
 History,Entertainment,111
-History,Gay & Lesbian,17
 History,"Health, Mind & Body",186
 History,Home & Garden,223
 History,Horror,6
@@ -330,7 +300,6 @@ Horror,Biographies & Memoirs,9
 Horror,Children's Books,92
 Horror,Comics & Graphic Novels,26
 Horror,Entertainment,35
-Horror,Gay & Lesbian,8
 Horror,"Health, Mind & Body",1
 Horror,History,12
 Horror,Literature & Fiction,323
@@ -350,7 +319,6 @@ Law,Children's Books,10
 Law,Computers & Internet,20
 Law,Engineering,13
 Law,Entertainment,19
-Law,Gay & Lesbian,7
 Law,"Health, Mind & Body",127
 Law,History,121
 Law,Home & Garden,19
@@ -373,7 +341,6 @@ Literature & Fiction,Computers & Internet,35
 Literature & Fiction,"Cooking, Food & Wine",71
 Literature & Fiction,Engineering,4
 Literature & Fiction,Entertainment,627
-Literature & Fiction,Gay & Lesbian,228
 Literature & Fiction,"Health, Mind & Body",673
 Literature & Fiction,History,1485
 Literature & Fiction,Home & Garden,105
@@ -400,7 +367,6 @@ Medicine,Computers & Internet,34
 Medicine,"Cooking, Food & Wine",23
 Medicine,Engineering,18
 Medicine,Entertainment,28
-Medicine,Gay & Lesbian,2
 Medicine,"Health, Mind & Body",1809
 Medicine,History,54
 Medicine,Home & Garden,133
@@ -422,7 +388,6 @@ Mystery & Thrillers,Comics & Graphic Novels,12
 Mystery & Thrillers,Computers & Internet,4
 Mystery & Thrillers,"Cooking, Food & Wine",4
 Mystery & Thrillers,Entertainment,36
-Mystery & Thrillers,Gay & Lesbian,30
 Mystery & Thrillers,"Health, Mind & Body",28
 Mystery & Thrillers,History,54
 Mystery & Thrillers,Home & Garden,10
@@ -448,7 +413,6 @@ Nonfiction,Computers & Internet,282
 Nonfiction,"Cooking, Food & Wine",92
 Nonfiction,Engineering,167
 Nonfiction,Entertainment,554
-Nonfiction,Gay & Lesbian,196
 Nonfiction,"Health, Mind & Body",3375
 Nonfiction,History,4057
 Nonfiction,Home & Garden,405
@@ -497,7 +461,6 @@ Professional & Technical,Computers & Internet,91
 Professional & Technical,"Cooking, Food & Wine",22
 Professional & Technical,Engineering,127
 Professional & Technical,Entertainment,69
-Professional & Technical,Gay & Lesbian,2
 Professional & Technical,"Health, Mind & Body",436
 Professional & Technical,History,149
 Professional & Technical,Home & Garden,1029
@@ -520,7 +483,6 @@ Religion & Spirituality,Computers & Internet,15
 Religion & Spirituality,"Cooking, Food & Wine",61
 Religion & Spirituality,Engineering,2
 Religion & Spirituality,Entertainment,320
-Religion & Spirituality,Gay & Lesbian,61
 Religion & Spirituality,"Health, Mind & Body",4173
 Religion & Spirituality,History,932
 Religion & Spirituality,Home & Garden,163
@@ -544,7 +506,6 @@ Romance,Business & Investing,1
 Romance,Children's Books,8
 Romance,Comics & Graphic Novels,3
 Romance,Entertainment,1
-Romance,Gay & Lesbian,10
 Romance,"Health, Mind & Body",3
 Romance,History,3
 Romance,Horror,23
@@ -566,7 +527,6 @@ Science,Computers & Internet,470
 Science,"Cooking, Food & Wine",77
 Science,Engineering,808
 Science,Entertainment,120
-Science,Gay & Lesbian,7
 Science,"Health, Mind & Body",539
 Science,History,355
 Science,Home & Garden,602
@@ -591,7 +551,6 @@ Science Fiction & Fantasy,Comics & Graphic Novels,242
 Science Fiction & Fantasy,Computers & Internet,4
 Science Fiction & Fantasy,"Cooking, Food & Wine",1
 Science Fiction & Fantasy,Entertainment,273
-Science Fiction & Fantasy,Gay & Lesbian,8
 Science Fiction & Fantasy,"Health, Mind & Body",10
 Science Fiction & Fantasy,History,16
 Science Fiction & Fantasy,Home & Garden,3
@@ -615,7 +574,6 @@ Sports,Computers & Internet,2
 Sports,"Cooking, Food & Wine",32
 Sports,Engineering,46
 Sports,Entertainment,117
-Sports,Gay & Lesbian,4
 Sports,"Health, Mind & Body",504
 Sports,History,117
 Sports,Home & Garden,308
@@ -639,7 +597,6 @@ Teens,Children's Books,1633
 Teens,Comics & Graphic Novels,19
 Teens,Computers & Internet,1
 Teens,Entertainment,5
-Teens,Gay & Lesbian,5
 Teens,"Health, Mind & Body",56
 Teens,History,16
 Teens,Home & Garden,2
@@ -664,7 +621,6 @@ Travel,Computers & Internet,3
 Travel,"Cooking, Food & Wine",173
 Travel,Engineering,8
 Travel,Entertainment,66
-Travel,Gay & Lesbian,1
 Travel,"Health, Mind & Body",76
 Travel,History,756
 Travel,Home & Garden,129
